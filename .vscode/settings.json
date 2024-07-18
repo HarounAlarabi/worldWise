@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {},
+  "less.lint.argumentsInColorFunction": "warning",
+  "eslint.format.enable": false,
+  "eslint.debug": false,
+  "workbench.colorTheme": "One Monokai",
+  "workbench.preferredDarkColorTheme": "Andromeda Italic"
+}

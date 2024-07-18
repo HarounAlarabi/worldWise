@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "4432",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-16T11:01:28.260Z",
+      "notes": "",
+      "position": {
+        "lat": 40.500124876289334,
+        "lng": -3.5595703125
+      }
+    },
+    {
+      "id": "aaa1",
+      "cityName": "Macao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-07-16T11:01:32.524Z",
+      "notes": "",
+      "position": {
+        "lat": 39.71105262660323,
+        "lng": -7.998046875000001
+      }
+    },
+    {
+      "id": "4544",
+      "cityName": "Sadali",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-16T11:01:39.991Z",
+      "notes": "",
+      "position": {
+        "lat": 39.79675824117019,
+        "lng": 9.228515625000002
+      }
+    }
+  ]
+}
