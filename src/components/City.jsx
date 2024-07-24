@@ -16,7 +16,6 @@ function City() {
   const { id } = useParams();
   const { getCity, currentCity } = useCities();
 
-  console.log(currentCity);
 
   useEffect(() => {
     getCity(id);

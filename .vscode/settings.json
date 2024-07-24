@@ -2,7 +2,7 @@
   "workbench.colorCustomizations": {},
   "less.lint.argumentsInColorFunction": "warning",
   "eslint.format.enable": false,
-  "eslint.debug": false,
+  "eslint.debug": true,
   "workbench.colorTheme": "One Monokai",
-  "workbench.preferredDarkColorTheme": "Andromeda Italic"
+  "eslint.enable": false
 }

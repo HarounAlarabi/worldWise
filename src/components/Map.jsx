@@ -1,7 +1,5 @@
-
-
 import styles from "./Map.module.css";
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import {
   MapContainer,
   TileLayer,
@@ -17,6 +15,7 @@ import { useUrlPosition } from "../hooks/useUrlPosition";
 import Button from "./Button";
 
 function Map() {
+  
   const { citiesList } = useCities();
   const [mapPosition, setMapPosition] = useState([40, 0]);
   const {

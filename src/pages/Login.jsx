@@ -11,7 +11,6 @@ export default function Login() {
   const [email, setEmail] = useState("aaron@example.com");
   const [password, setPassword] = useState("greate");
   
-
   const { login, isAuthenticated, user } = useAuth();
   console.log(user);
   const navigate = useNavigate();
